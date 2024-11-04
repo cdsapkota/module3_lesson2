@@ -1,1 +1,1 @@
-# module3_lesson2
+This repository includes the assignment from module3 lesson2.
